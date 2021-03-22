@@ -16,3 +16,5 @@
 <p>Resist the temptation to copy/paste code content from the book. This may introduce hidden characters and have unintended consequences in your code. Pay attention to patterns. There is value in entering the code yourself, line-by-line.</p>
 
 <p>Unit Testing is a part of this lab and is not optional.</p>
+
+<hr>Note: LocalDB support for Visual Studio requires Universal Windows Platform development workload (Tools>Get Tools and Features>Visual Studio Installer).</hr>
