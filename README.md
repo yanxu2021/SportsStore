@@ -18,3 +18,11 @@
 <p>Unit Testing is a part of this lab and is not optional.</p>
 
 <hr>Note: LocalDB support for Visual Studio requires Universal Windows Platform development workload (Tools>Get Tools and Features>Visual Studio Installer).</hr>
+
+<p>You are building an online e-commerce application. </p>
+
+<blockquote><p>Create Projects and Solution
+Configure Project and Add to Source Control
+Connect Project to a Database
+Display the Products
+Submit the link to your project</p></blockquote>
