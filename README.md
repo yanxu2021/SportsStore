@@ -19,7 +19,7 @@
 
 <blockquote><p>Note: LocalDB support for Visual Studio requires Universal Windows Platform development workload (Tools>Get Tools and Features>Visual Studio Installer).</p></blockquote>
 
-<p>You are building an online e-commerce application. </p>
+<p>Build an online e-commerce application. </p>
 
 <ul><li>Create Projects and Solution</li>
 <li>Configure Project and Add to Source Control</li>
