@@ -27,7 +27,8 @@
 <li>Display the Products</li>
 <li>Submit the link to your project</li></ul>
 
-<br><br><br>![Photo](https://media-exp1.licdn.com/dms/image/C4D16AQFrUKJ1TCqo4g/profile-displaybackgroundimage-shrink_200_800/0/1615595320882?e=1620864000&v=beta&t=OzkOq8_sBWs2V05pFsKf4MtwAr9_L4u7AeoISgEc_jc)</br></br></br>
+<br><br><br>![Photo](https://github.com/yanxu2021/SportsStore/blob/main/Chap7/8.JPG)</br></br></br>
+<br><br><br>![Photo](https://github.com/yanxu2021/SportsStore/blob/main/Chap7/9.JPG)</br></br></br>
 
 ## Chap8 Instruction
 <p>Complete the lab "SportsStore: Navigation and Cart", Chapter 8 pages 157 - 188.</p>
