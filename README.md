@@ -26,3 +26,23 @@
 <li>Connect Project to a Database</li>
 <li>Display the Products</li>
 <li>Submit the link to your project</li></ul>
+
+
+## Chap8 Instruction
+<p>Complete the lab "SportsStore: Navigation and Cart", Chapter 8 pages 157 - 188.</p>
+
+<p>Contnue to build an online e-commerce application. </p>
+
+<ul><li>Add, Filter, and highlight Category</li>
+<li>Add Shopping Cart and Session data</li>
+<li>Commit source changes and (2 more) screenshots ( see Fig 8-10 and Fig 8-11 ) to Github repo.</li>
+<li>Expand Test Explorer to show all tests (through end of chapter 8) completed and passed</li>
+<li>Add screenshot to README.md</li></ul>
+
+
+
+
+
+
+
+
