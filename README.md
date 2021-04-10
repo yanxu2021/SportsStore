@@ -35,14 +35,11 @@
 
 <ul><li>Add, Filter, and highlight Category</li>
 <li>Add Shopping Cart and Session data</li>
-<li>Commit source changes and (2 more) screenshots ( see Fig 8-10 and Fig 8-11 ) to Github repo.</li>
+<li>Commit source changes and (2 more) screenshots ( see Fig 8-10 and Fig 8-11 ) to Github repo</li>
 <li>Expand Test Explorer to show all tests (through end of chapter 8) completed and passed</li>
 <li>Add screenshot to README.md</li></ul>
 
+## Chap9 Instruction
+<p>Complete the lab "SportsStore: Completing the Cart", pages 189 - 212.</p>
 
-
-
-
-
-
-
+<p>Contnue to build an online e-commerce application. </p>
