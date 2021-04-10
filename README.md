@@ -10,7 +10,7 @@
 
 <p>As a student who is new to the fundamentals of the C# language, there will be concepts and practices which at times will be familiar, and sometimes confusing. None is out of your reach. Take the time to understand it, not just copy, paste, and move on. As you have seen, with coding, there is often more than one way to do things. Learn from the examples, and when in doubt, ask!</p>
 
-## Instruction
+## Chap7 Instruction
 <p>Complete the lab from Chapter 7 "SportsStore: A Real Application", pages 123 - 155.</p>
 
 <p>Resist the temptation to copy/paste code content from the book. This may introduce hidden characters and have unintended consequences in your code. Pay attention to patterns. There is value in entering the code yourself, line-by-line.</p>
