@@ -51,3 +51,11 @@
 
 <br><br><br>![Photo](https://github.com/yanxu2021/SportsStore/blob/main/Chap9/7.JPG)</br></br></br>
 <br><br><br>![Photo](https://github.com/yanxu2021/SportsStore/blob/main/Chap9/8.JPG)</br></br></br>
+
+## Chap10 Instruction
+<p>Complete the lab "SportsStore: Administration", pages 213 - 231.</p>
+
+<p>Contnue to build an online e-commerce application. </p>
+
+<br><br><br>![Photo](https://github.com/yanxu2021/SportsStore/blob/main/Chap10/14.JPG)</br></br></br>
+<br><br><br>![Photo](https://github.com/yanxu2021/SportsStore/blob/main/Chap10/15.JPG)</br></br></br>
